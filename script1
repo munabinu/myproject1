@@ -1,0 +1,4 @@
+#simple command
+ls -lrt
+ps -ef | grep jenkins
+top
